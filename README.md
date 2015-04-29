@@ -29,4 +29,4 @@ Smash is written in Python has both a command line interface and GUI interface. 
 
 ## Sponsor ##
 
-<a href='http://www.zilogic.com'><img src=''https://raw.githubusercontent.com/BackupGGCode/smash-tool/wiki/zilogic-logo.png /></a>
+<a href='http://www.zilogic.com'><img src='https://raw.githubusercontent.com/BackupGGCode/smash-tool/wiki/zilogic-logo.png' /></a>
